@@ -35,7 +35,8 @@ This project follows a modular programming approach and is divided into 5 Python
 - Python 3.x installed on your system
 
 ## How to Run the Program
-### Video Demonstration Link: https://drive.google.com/file/d/1uw1bfPzDwlleP1mb4lxH_E3rFVnsMpJF/view?usp=sharing
+### Video Demonstration Link:
+https://drive.google.com/file/d/1uw1bfPzDwlleP1mb4lxH_E3rFVnsMpJF/view?usp=sharing
 ### Step 1: Download / Clone the Project
 ### Step 2: Run the Main Program in Terminal
 Make sure all Python files are located in the same folder.
